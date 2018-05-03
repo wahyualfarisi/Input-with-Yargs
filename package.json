@@ -1,0 +1,22 @@
+{
+  "name": "input-with-yargs",
+  "version": "1.0.0",
+  "description": "NodeJS-Yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyualfarisi/Input-with-Yargs.git"
+  },
+  "author": "Wahyu Alfarisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyualfarisi/Input-with-Yargs/issues"
+  },
+  "homepage": "https://github.com/wahyualfarisi/Input-with-Yargs#readme",
+  "dependencies": {
+    "yargs": "^4.7.1"
+  }
+}
